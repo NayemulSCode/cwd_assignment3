@@ -67,5 +67,5 @@ function megaFriend(array) {
   }
   
   var array = megaFriend(["nayemul","hasan","saheb", "nayeml hasan saheb","over", "the"]);
-  console.log(array); // result is "jumped"
+  console.log(array);
   console.log("-------");
